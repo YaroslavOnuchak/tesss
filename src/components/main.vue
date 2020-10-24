@@ -1,6 +1,6 @@
 <template>
   <div class="wrap">
-    <div class="container-fluid row  m-0 justify-content-around text-center">
+    <div class="container-fluid row m-0 justify-content-around text-center">
       <b-form name="setColor" @change="setColor" class="w-25">
         <b-form-group
           id="input-group-3"
