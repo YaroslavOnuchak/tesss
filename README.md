@@ -3,6 +3,7 @@
 ## Demo https://yaroslavonuchak.github.io/text-editor/ 
 ```
 ###for erdit secect text
+```
 
 ## Project setup
 ```
