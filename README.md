@@ -1,7 +1,7 @@
 # editor-text
 
-## Demo https://yaroslavonuchak.github.io/text-editor/ /n for erdit secect text
-``
+## Demo https://yaroslavonuchak.github.io/text-editor/ /\n for erdit secect text
+
 ## Project setup
 ```
 npm install
