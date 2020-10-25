@@ -2,7 +2,7 @@
 
 ## Demo https://yaroslavonuchak.github.io/text-editor/ 
 ```
-for erdit secect text
+for edit secect text
 ```
 
 ## Project setup
