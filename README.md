@@ -1,7 +1,7 @@
 # editor-text
 
-### Demo https://yaroslavonuchak.github.io/text-editor/
-```
+## Demo https://yaroslavonuchak.github.io/text-editor/
+``
 ## Project setup
 ```
 npm install
