@@ -4,7 +4,7 @@
       <b-form name="setColor" @change="setColor" class="w-25">
         <b-form-group
           id="input-group-3"
-          label="Text Color:"
+          label="Color of Selected Text:"
           label-for="input-3"
         >
           <b-form-select
@@ -19,7 +19,7 @@
       <b-form name="setColorBg" @change="setColorBg" class="w-25">
         <b-form-group
           id="input-group-2"
-          label="Text Bg Color:"
+          label="Color Bg of Selected Text :"
           label-for="input-2"
         >
           <b-form-select
@@ -31,7 +31,7 @@
         </b-form-group>
       </b-form>
       <b-form name="setFontSize" @change="setSize" class="w-25">
-        <b-form-group id="input-group-1" label="Text Size:" label-for="input-1">
+        <b-form-group id="input-group-1" label="Size of Selected Text :" label-for="input-1">
           <b-form-select
             id="input-1"
             v-model="selectedTextSize"
